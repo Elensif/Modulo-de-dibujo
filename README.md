@@ -8,3 +8,7 @@ Para el relleno del extrusor se utilizó una ganache de 200gr. de chocolate 54%,
 
 Para la caja electrónica se utilizó la librería de: https://hackaday.io/project/183713/instructions
 La velocidad máxima en el código utilizado para el motor es de 200.
+
+
+
+Sobre el proyecto: https://wiki.ead.pucv.cl/M%C3%B3dulo_perform%C3%A1tico_de_un_dibujo_comestible
