@@ -14,5 +14,5 @@ Para la caja electrónica se utilizó la librería de: https://hackaday.io/proje
 La velocidad máxima en el código utilizado para el motor es de 200.
 
 
-
+Excel de componentes del proyecto: https://docs.google.com/spreadsheets/d/1XOzpoQ05eOA92ipmq-vIG3SNlGOVWvsAdQOaHhamvO8/edit?usp=sharing
 Sobre el proyecto: https://wiki.ead.pucv.cl/M%C3%B3dulo_perform%C3%A1tico_de_un_dibujo_comestible
