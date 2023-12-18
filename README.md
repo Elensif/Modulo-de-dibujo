@@ -8,13 +8,8 @@ Para el relleno del extrusor se utilizó una ganache de 200gr. de chocolate 54%,
 Dependiendo del ancho de las ruedas depende la ubicación de la perforación circular del disco por donde pasa la boquilla/lápiz, por lo que esta deberá moverse hacia el centro si la rueda es muy ancha para que esta no aplaste el dibujo.
 El diseño está hecho para un tubo de acrílico de 40mm de diámetro exterior y 34mm interior.
 
-Para el extrusor se utilizó una varilla roscada de 280mm y tuerca de latón para la varilla:
-https://www.cimech3d.cl/producto/varilla-roscada-husillo-tr88-p2/
-
-
 Para la caja electrónica se utilizó la librería de: https://hackaday.io/project/183713/instructions
 La velocidad máxima en el código utilizado para el motor es de 200.
-
 
 Excel de componentes del proyecto: 
 https://docs.google.com/spreadsheets/d/1XOzpoQ05eOA92ipmq-vIG3SNlGOVWvsAdQOaHhamvO8/edit?usp=sharing
